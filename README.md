@@ -79,3 +79,16 @@ dados armazenados na forma de tabela:**
 | 3  | Fashion      |
 | 4  | Books        |
 
+## Demo: inserir dados
+
+**Código fonte:** https://github.com/acenelio/jdbc3
+
+**API:**
+- PreparedStatement
+- executeUpdate
+- Statement.RETURN_GENERATED_KEYS
+- getGeneratedKeys
+
+**Checklist:**
+- Inserção simples com preparedStatement
+- Inserção com recuperação de Id

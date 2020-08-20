@@ -1,4 +1,4 @@
-package application;
+package application.update;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -104,3 +104,14 @@ dados armazenados na forma de tabela:**
 **Checklist:**
 - Criar DbIntegrityException
 - Tratar a exceção de integridade referencial
+
+## Demo: transações
+
+**Referências:** https://www.ibm.com/support/knowledgecenter/en/SSGMCP_5.4.0/product-overview/acid.html
+
+**Código fonte:** https://github.com/acenelio/jdbc6
+
+**API:**
+- setAutoCommit(false)
+- commit()
+- rollback()

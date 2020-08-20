@@ -92,3 +92,7 @@ dados armazenados na forma de tabela:**
 **Checklist:**
 - Inserção simples com preparedStatement
 - Inserção com recuperação de Id
+
+## Demo: atualizar dados
+
+**Código fonte:** https://github.com/acenelio/jdbc4
